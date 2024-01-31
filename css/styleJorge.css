@@ -17,3 +17,9 @@ img {
     margin: auto;
     display: block;
 }
+
+.lista {
+    list-style-type: upper-roman;
+    padding-left: 50px;
+}
+
